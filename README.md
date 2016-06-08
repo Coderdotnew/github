@@ -4,7 +4,7 @@ We've set up our coding environment, so let's get coding! We will be taking file
 
 For the sake of this example we will be attemping to fork and clone a repository called "Fork_and_clone" from the Coder.new Github.
 
-Firstly, we need to open the github repository. Once you do that you should see a screen like the one below. Notice how in the top left corner it says "**Coderdotnew**/fork_and_clone. This means that the repository is located in Coderdotnew's github. 
+Firstly, we need to open the github repository. Once you do that you should see a screen like the one below. Notice how in the top left corner it says "**Coderdotnew**/fork_and_clone". This means that the repository is located in Coderdotnew's github. 
 
 Next step is to click "fork" as indicated in the picture.
 
